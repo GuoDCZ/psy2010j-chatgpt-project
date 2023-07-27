@@ -1,0 +1,4 @@
+Suppose all of the A are B, and all of the B are C. What can be inferred about the relationship between A and C? Use quantifiers "all", "none", or "some".
+Suppose all of the A are B, and none of the B is C. What can be inferred about the relationship between A and C? Use quantifiers "all", "none", or "some".
+Suppose some of the A are B, and all of the B is C. What can be inferred about the relationship between A and C? Use quantifiers "all", "none", or "some".
+Suppose none of the A is B, and all of the C are B. What can be inferred about the relationship between A and C? Use quantifiers "all", "none", or "some".

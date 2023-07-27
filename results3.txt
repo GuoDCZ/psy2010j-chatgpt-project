@@ -1,0 +1,1295 @@
+ProxyChains-3.1 (http://proxychains.sf.net)
+[Q1]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the students in the classroom are male. 
+[A1]
+The negation statement of the sentence "All of the students in the classroom are male" is: Some of the students in the classroom are not male.
+[A2]
+Some of the students in the classroom are not male.
+[A3]
+Some of the students in the classroom are not male.
+[A4]
+The negation statement of the sentence "All of the students in the classroom are male" is: Some of the students in the classroom are not male.
+[A5]
+Some of the students in the classroom are not male.
+[A6]
+Some of the students in the classroom are not male.
+[A7]
+The negation statement of the sentence "All of the students in the classroom are male" would be: Some of the students in the classroom are not male.
+[A8]
+Some of the students in the classroom are not male.
+[A9]
+Some of the students in the classroom are not male.
+[A10]
+The negation statement of the sentence "All of the students in the classroom are male" would be "Some of the students in the classroom are not male."
+[A11]
+Some of the students in the classroom are not male.
+[A12]
+Some of the students in the classroom are not male.
+[A13]
+Some of the students in the classroom are not male.
+[A14]
+Some of the students in the classroom are not male.
+[A15]
+The negation statement of the sentence "All of the students in the classroom are male" would be: Some of the students in the classroom are not male.
+[A16]
+Some of the students in the classroom are not male.
+[A17]
+Some of the students in the classroom are not male.
+[A18]
+Some of the students in the classroom are not male.
+[A19]
+Some of the students in the classroom are not male.
+[A20]
+The negation statement of "All of the students in the classroom are male" is: Some of the students in the classroom are not male.
+
+[Q2]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the students in the classroom are not male. 
+[A1]
+Some of the students in the classroom are male.
+[A2]
+The negation statement of the sentence "All of the students in the classroom are not male" is "Some of the students in the classroom are male."
+[A3]
+None of the students in the classroom are male.
+[A4]
+Some of the students in the classroom are male.
+[A5]
+Some of the students in the classroom are male.
+[A6]
+None of the students in the classroom are not male.
+[A7]
+Some of the students in the classroom are not male.
+[A8]
+Some of the students in the classroom are male.
+[A9]
+Some of the students in the classroom are male.
+[A10]
+None of the students in the classroom are not male.
+[A11]
+Some of the students in the classroom are male.
+[A12]
+The negation of "All of the students in the classroom are not male" is "Some of the students in the classroom are male."
+[A13]
+Some of the students in the classroom are male.
+[A14]
+Some of the students in the classroom are male.
+[A15]
+The negation statement of "All of the students in the classroom are not male" is "Some of the students in the classroom are male."
+[A16]
+Some of the students in the classroom are male.
+[A17]
+None of the students in the classroom are not male.
+[A18]
+Some of the students in the classroom are male.
+[A19]
+Some of the students in the classroom are male.
+[A20]
+Some of the students in the classroom are male.
+
+[Q3]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the students in the classroom are male. 
+[A1]
+None of the students in the classroom are male.
+[A2]
+None of the students in the classroom are male.
+[A3]
+None of the students in the classroom are male.
+[A4]
+None of the students in the classroom are male.
+[A5]
+None of the students in the classroom are male.
+[A6]
+None of the students in the classroom are male.
+[A7]
+None of the students in the classroom are male.
+[A8]
+None of the students in the classroom are male.
+[A9]
+The negation statement of the sentence "Some of the students in the classroom are male" is "None of the students in the classroom are male."
+[A10]
+None of the students in the classroom are male.
+[A11]
+None of the students in the classroom are male.
+[A12]
+None of the students in the classroom are male.
+[A13]
+None of the students in the classroom are male.
+[A14]
+None of the students in the classroom are male.
+[A15]
+None of the students in the classroom are male.
+[A16]
+None of the students in the classroom are male.
+[A17]
+None of the students in the classroom are male.
+[A18]
+None of the students in the classroom are male.
+[A19]
+None of the students in the classroom are male.
+[A20]
+None of the students in the classroom are male.
+
+[Q4]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the students in the classroom are not male. 
+[A1]
+Some of the students in the classroom are male.
+[A2]
+None of the students in the classroom are male.
+[A3]
+The negation statement of "Some of the students in the classroom are not male" is "None of the students in the classroom are not male."
+[A4]
+None of the students in the classroom are not male.
+[A5]
+The negation statement of "Some of the students in the classroom are not male" is "None of the students in the classroom are not male."
+[A6]
+None of the students in the classroom are not male.
+[A7]
+None of the students in the classroom are not male.
+[A8]
+The negation of the sentence "Some of the students in the classroom are not male" is "None of the students in the classroom are not male."
+[A9]
+All of the students in the classroom are male.
+[A10]
+None of the students in the classroom are not male.
+[A11]
+None of the students in the classroom are not male.
+[A12]
+None of the students in the classroom are male.
+[A13]
+All of the students in the classroom are male.
+[A14]
+Some of the students in the classroom are male.
+[A15]
+None of the students in the classroom are not male.
+[A16]
+All of the students in the classroom are male.
+[A17]
+All of the students in the classroom are male.
+None of the students in the classroom are male.
+[A18]
+All of the students in the classroom are male.
+[A19]
+None of the students in the classroom are not male.
+[A20]
+Some of the students in the classroom are male.
+
+[Q5]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the students in the classroom is male. 
+[A1]
+Some of the students in the classroom are male.
+[A2]
+Some of the students in the classroom are male.
+[A3]
+Some of the students in the classroom is male.
+[A4]
+Some of the students in the classroom are male.
+[A5]
+Some of the students in the classroom are male.
+[A6]
+Some of the students in the classroom are male.
+[A7]
+Some of the students in the classroom are male.
+[A8]
+Some of the students in the classroom are male.
+[A9]
+Some of the students in the classroom is male.
+[A10]
+Some of the students in the classroom are male.
+[A11]
+Some of the students in the classroom is male.
+[A12]
+Some of the students in the classroom are male.
+[A13]
+Some of the students in the classroom are male.
+[A14]
+Some of the students in the classroom are male.
+[A15]
+Some of the students in the classroom are male.
+[A16]
+Some of the students in the classroom are male.
+[A17]
+Some of the students in the classroom are male.
+[A18]
+Some of the students in the classroom are male.
+[A19]
+Some of the students in the classroom are male.
+[A20]
+Some of the students in the classroom are male.
+
+[Q6]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the students in the classroom is not male. 
+[A1]
+Some of the students in the classroom are male.
+[A2]
+The negation statement of the given sentence is "Some of the students in the classroom are male."
+[A3]
+Some of the students in the classroom are male.
+[A4]
+Some of the students in the classroom are not male.
+[A5]
+Some of the students in the classroom are male.
+[A6]
+Some of the students in the classroom are male.
+[A7]
+Some of the students in the classroom are male.
+[A8]
+The negation statement of "None of the students in the classroom is not male" is: Some of the students in the classroom are male.
+[A9]
+Some of the students in the classroom are male.
+[A10]
+Quantifier: None
+
+Negation: Some of the students in the classroom is male.
+[A11]
+Some of the students in the classroom are male.
+[A12]
+None of the students in the classroom is male.
+[A13]
+The negation statement of the sentence "None of the students in the classroom is not male" is: Some of the students in the classroom are male.
+[A14]
+The negation statement of the sentence "None of the students in the classroom is not male" is: "Some of the students in the classroom are male."
+[A15]
+Some of the students in the classroom are male.
+[A16]
+Some of the students in the classroom are male.
+[A17]
+Some of the students in the classroom are male.
+[A18]
+Some of the students in the classroom are male.
+[A19]
+Some of the students in the classroom are male.
+[A20]
+Some of the students in the classroom are male.
+
+[Q7]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the teachers in the school teach Physics.
+[A1]
+None of the teachers in the school teach Physics.
+[A2]
+The negation statement of the sentence "All of the teachers in the school teach Physics" would be: Some of the teachers in the school do not teach Physics.
+[A3]
+Some of the teachers in the school do not teach Physics.
+[A4]
+None of the teachers in the school teach Physics.
+[A5]
+None of the teachers in the school teach Physics.
+[A6]
+Some of the teachers in the school do not teach Physics.
+[A7]
+The negation statement of "All of the teachers in the school teach Physics" is "Some of the teachers in the school do not teach Physics."
+[A8]
+None of the teachers in the school teach Physics.
+[A9]
+Some of the teachers in the school do not teach Physics.
+[A10]
+Some of the teachers in the school do not teach Physics.
+[A11]
+Some of the teachers in the school do not teach Physics.
+[A12]
+Some of the teachers in the school do not teach Physics.
+[A13]
+The negation statement would be: None of the teachers in the school teach Physics.
+[A14]
+None of the teachers in the school teach Physics.
+[A15]
+The negation of the sentence "All of the teachers in the school teach Physics" would be "Some of the teachers in the school do not teach Physics."
+[A16]
+The negation statement is: Some of the teachers in the school do not teach Physics.
+[A17]
+The negation statement of the sentence "All of the teachers in the school teach Physics" would be: None of the teachers in the school teach Physics.
+[A18]
+Some of the teachers in the school do not teach Physics.
+[A19]
+The negation statement of the sentence "All of the teachers in the school teach Physics" is: "Some of the teachers in the school do not teach Physics."
+[A20]
+Some of the teachers in the school do not teach Physics.
+
+[Q8]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the teachers in the school do not teach Physics.
+[A1]
+Some of the teachers in the school teach Physics.
+[A2]
+Some of the teachers in the school teach Physics.
+[A3]
+None of the teachers in the school teach Physics.
+[A4]
+Some of the teachers in the school teach Physics.
+[A5]
+Some of the teachers in the school teach Physics.
+[A6]
+Some of the teachers in the school teach Physics.
+[A7]
+Some of the teachers in the school teach Physics.
+[A8]
+Some of the teachers in the school teach Physics.
+[A9]
+Some of the teachers in the school teach Physics.
+[A10]
+Some of the teachers in the school teach Physics.
+[A11]
+Some of the teachers in the school teach Physics.
+[A12]
+Some of the teachers in the school teach Physics.
+[A13]
+Some of the teachers in the school teach Physics.
+[A14]
+Some of the teachers in the school teach Physics
+[A15]
+Some of the teachers in the school teach Physics.
+[A16]
+Some of the teachers in the school teach Physics.
+[A17]
+Some of the teachers in the school teach Physics.
+[A18]
+Some of the teachers in the school teach Physics.
+[A19]
+The negation statement of "All of the teachers in the school do not teach Physics" would be: Some of the teachers in the school teach Physics.
+[A20]
+Some of the teachers in the school teach Physics.
+
+[Q9]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the teachers in the school teach Physics.
+[A1]
+None of the teachers in the school teach Physics.
+[A2]
+None of the teachers in the school teach Physics.
+[A3]
+None of the teachers in the school teach Physics.
+[A4]
+None of the teachers in the school teach Physics.
+[A5]
+The negation of the sentence "Some of the teachers in the school teach Physics" is "None of the teachers in the school teach Physics."
+[A6]
+The negation statement of the sentence "Some of the teachers in the school teach Physics" would be: None of the teachers in the school teach Physics.
+[A7]
+None of the teachers in the school teach Physics.
+[A8]
+None of the teachers in the school teach Physics.
+[A9]
+None of the teachers in the school teach Physics
+[A10]
+None of the teachers in the school teach Physics.
+[A11]
+None of the teachers in the school teach Physics.
+[A12]
+The negation statement of the sentence "Some of the teachers in the school teach Physics" is "None of the teachers in the school teach Physics."
+[A13]
+The negation statement of "Some of the teachers in the school teach Physics" would be "None of the teachers in the school teach Physics."
+[A14]
+None of the teachers in the school teach Physics.
+[A15]
+None of the teachers in the school teach Physics.
+[A16]
+None of the teachers in the school teach Physics.
+[A17]
+None of the teachers in the school teach Physics.
+[A18]
+None of the teachers in the school teach Physics.
+[A19]
+None of the teachers in the school teach Physics.
+[A20]
+None of the teachers in the school teach Physics.
+
+[Q10]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the teachers in the school do not teach Physics.
+[A1]
+The negation statement of the given sentence would be: All of the teachers in the school teach Physics.
+[A2]
+None of the teachers in the school teach Physics.
+[A3]
+All of the teachers in the school teach Physics.
+[A4]
+The negation statement of "Some of the teachers in the school do not teach Physics" would be: All of the teachers in the school teach Physics.
+[A5]
+None of the teachers in the school teach Physics.
+[A6]
+None of the teachers in the school teach Physics.
+[A7]
+All of the teachers in the school teach Physics.
+[A8]
+All of the teachers in the school teach Physics.
+[A9]
+None of the teachers in the school teach Physics.
+[A10]
+None of the teachers in the school teach Physics.
+[A11]
+The negation of the sentence "Some of the teachers in the school do not teach Physics" would be: All of the teachers in the school teach Physics.
+[A12]
+The negation statement would be: All of the teachers in the school teach Physics.
+[A13]
+Some of the teachers in the school teach Physics.
+[A14]
+All of the teachers in the school teach Physics.
+[A15]
+None of the teachers in the school teach Physics.
+[A16]
+All of the teachers in the school teach Physics.
+[A17]
+The negation statement of "Some of the teachers in the school do not teach Physics" is "None of the teachers in the school do not teach Physics."
+[A18]
+The negation statement of the sentence "Some of the teachers in the school do not teach Physics" is "All of the teachers in the school teach Physics."
+[A19]
+The negation statement of "Some of the teachers in the school do not teach Physics" would be "All of the teachers in the school teach Physics."
+[A20]
+Some of the teachers in the school teach Physics.
+
+[Q11]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the teachers in the school teaches Physics.
+[A1]
+Some of the teachers in the school teach Physics.
+[A2]
+Some of the teachers in the school teach Physics.
+[A3]
+Some of the teachers in the school teach Physics.
+[A4]
+Some of the teachers in the school teach Physics.
+[A5]
+Some of the teachers in the school teach Physics.
+[A7]
+Some of the teachers in the school teach Physics.
+[A8]
+Some of the teachers in the school teach Physics.
+[A9]
+Some of the teachers in the school teach Physics.
+[A10]
+Some of the teachers in the school teach Physics.
+[A11]
+Some of the teachers in the school teaches Physics.
+[A12]
+Some of the teachers in the school teach Physics.
+[A13]
+Some of the teachers in the school teach Physics.
+[A14]
+Some of the teachers in the school teach Physics.
+[A15]
+Some of the teachers in the school teach Physics.
+[A16]
+Some of the teachers in the school teach Physics.
+[A17]
+The negation statement of the sentence "None of the teachers in the school teaches Physics" would be "Some of the teachers in the school teach Physics."
+[A18]
+Some of the teachers in the school teach Physics.
+[A19]
+Some of the teachers in the school teach Physics.
+[A20]
+Some of the teachers in the school teach Physics.
+
+[Q12]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the teachers in the school does not teach Physics.
+[A1]
+Some of the teachers in the school teach Physics.
+[A2]
+The negation statement of "None of the teachers in the school does not teach Physics" would be: Some of the teachers in the school teach Physics.
+[A3]
+The negation statement of "None of the teachers in the school does not teach Physics" is:
+Some of the teachers in the school teach Physics.
+[A4]
+Some of the teachers in the school teach Physics.
+[A5]
+The negation statement of the given sentence is: Some of the teachers in the school teach Physics.
+[A6]
+Some of the teachers in the school teach Physics.
+[A7]
+Some of the teachers in the school teach Physics.
+[A8]
+Some of the teachers in the school teach Physics.
+[A9]
+Some of the teachers in the school teach Physics.
+[A10]
+The negation statement is: Some of the teachers in the school teach Physics.
+[A11]
+The negation statement of the sentence "None of the teachers in the school does not teach Physics" is "Some of the teachers in the school teach Physics."
+[A12]
+Some of the teachers in the school teach Physics.
+[A13]
+The negation statement of "None of the teachers in the school does not teach Physics" would be: Some of the teachers in the school teach Physics.
+[A14]
+The negation statement of "None of the teachers in the school does not teach Physics" would be "Some of the teachers in the school teach Physics."
+[A15]
+Some of the teachers in the school teach Physics.
+[A16]
+Some of the teachers in the school teach Physics
+[A17]
+Some of the teachers in the school teach Physics.
+[A18]
+Some of the teachers in the school teach Physics.
+[A19]
+Some of the teachers in the school teach Physics.
+[A20]
+The negation statement of the given sentence is: Some of the teachers in the school teach Physics.
+
+[Q13]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the animals have tails.
+[A1]
+Some of the animals do not have tails.
+[A2]
+The negation statement of "All of the animals have tails" is "Some of the animals do not have tails."
+[A3]
+Some of the animals do not have tails.
+[A4]
+Some of the animals do not have tails.
+[A5]
+The negation statement of "All of the animals have tails" is: Some of the animals do not have tails.
+[A6]
+The negation statement of "All of the animals have tails" is "Some of the animals do not have tails."
+[A7]
+Some of the animals do not have tails.
+[A8]
+Some of the animals do not have tails.
+[A9]
+The negation statement of "All of the animals have tails" is "Some of the animals do not have tails."
+[A10]
+The negation statement of the sentence "All of the animals have tails" is: None of the animals have tails.
+[A11]
+None of the animals have tails.
+[A12]
+None of the animals have tails.
+[A13]
+Some of the animals do not have tails.
+[A14]
+Some of the animals do not have tails.
+[A15]
+None of the animals have tails.
+[A16]
+Some of the animals do not have tails.
+[A17]
+Some of the animals do not have tails.
+[A18]
+Some of the animals do not have tails.
+[A19]
+None of the animals have tails.
+[A20]
+None of the animals have tails.
+
+[Q14]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the animals do not have tails.
+[A1]
+The negation statement would be: Some of the animals have tails.
+[A2]
+Some of the animals have tails.
+[A3]
+Some of the animals have tails.
+[A4]
+Some of the animals have tails.
+[A5]
+Some of the animals have tails.
+[A6]
+Some of the animals have tails.
+[A7]
+Some of the animals have tails.
+[A8]
+Some of the animals have tails.
+[A9]
+Some of the animals have tails.
+[A10]
+Some of the animals have tails.
+[A11]
+Some of the animals have tails.
+[A12]
+Some of the animals have tails.
+[A13]
+Some of the animals have tails.
+[A14]
+Some of the animals have tails.
+[A15]
+Some of the animals have tails.
+[A16]
+Some of the animals have tails.
+[A17]
+Some of the animals have tails.
+[A18]
+Some of the animals have tails.
+[A19]
+Some of the animals do have tails.
+[A20]
+Some of the animals have tails.
+
+[Q15]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the animals have tails.
+[A1]
+None of the animals have tails.
+[A2]
+The negation statement of the sentence "Some of the animals have tails" would be "None of the animals have tails."
+[A3]
+The negation statement of the sentence "Some of the animals have tails" is "None of the animals have tails."
+[A4]
+The negation of "Some of the animals have tails" would be "None of the animals have tails."
+[A5]
+The negation statement of "Some of the animals have tails" is "None of the animals have tails."
+[A6]
+The negation statement of the sentence "Some of the animals have tails" is "None of the animals have tails."
+[A7]
+None of the animals have tails.
+[A8]
+None of the animals have tails.
+[A9]
+None of the animals have tails.
+[A10]
+The negation statement of the sentence "Some of the animals have tails" is "None of the animals have tails."
+[A11]
+None of the animals have tails.
+[A12]
+None of the animals have tails.
+[A13]
+The negation statement of the sentence "Some of the animals have tails" would be: None of the animals have tails.
+[A14]
+None of the animals have tails.
+[A15]
+None of the animals have tails.
+[A16]
+None of the animals have tails.
+[A17]
+None of the animals have tails.
+[A18]
+None of the animals have tails.
+[A19]
+None of the animals have tails.
+[A20]
+None of the animals have tails.
+
+[Q16]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the animals have tails.
+[A1]
+None of the animals have tails.
+[A2]
+None of the animals have tails.
+[A3]
+The negation statement of "Some of the animals have tails" is "None of the animals have tails."
+[A4]
+None of the animals have tails.
+[A5]
+None of the animals have tails.
+[A6]
+None of the animals have tails.
+[A7]
+None of the animals have tails.
+[A8]
+None of the animals have tails.
+[A9]
+None of the animals have tails.
+[A10]
+None of the animals have tails.
+[A11]
+None of the animals have tails.
+[A12]
+The negation statement of "Some of the animals have tails." is "None of the animals have tails."
+[A13]
+The negation statement of "Some of the animals have tails" is "None of the animals have tails."
+[A14]
+Some of the animals do not have tails.
+[A15]
+The negation statement of "Some of the animals have tails" is: None of the animals have tails.
+[A16]
+None of the animals have tails.
+[A17]
+None of the animals have tails.
+[A18]
+None of the animals have tails.
+[A19]
+None of the animals have tails.
+[A20]
+The negation statement of "Some of the animals have tails" is "None of the animals have tails."
+
+[Q17]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the animals has tails.
+[A1]
+Some of the animals have tails.
+[A2]
+Some of the animals have tails.
+[A3]
+Some of the animals have tails.
+[A4]
+Some of the animals have tails.
+[A5]
+The negation statement of "None of the animals has tails" would be "Some of the animals have tails."
+[A6]
+Some of the animals have tails.
+[A7]
+Some of the animals have tails.
+[A8]
+Some of the animals have tails.
+[A9]
+Some of the animals have tails.
+[A10]
+Some of the animals have tails.
+[A11]
+Some of the animals have tails.
+[A12]
+Some of the animals have tails.
+[A13]
+Some of the animals have tails.
+[A14]
+Some of the animals have tails.
+[A15]
+Some of the animals have tails.
+[A16]
+Some of the animals have tails.
+[A17]
+Some of the animals have tails.
+[A18]
+Some of the animals have tails.
+[A19]
+Some of the animals have tails.
+[A20]
+Some of the animals have tails.
+
+[Q18]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the animals does not have tails.
+[A1]
+The negation statement of the sentence "None of the animals does not have tails" is "Some of the animals have tails."
+[A2]
+Some of the animals have tails.
+[A3]
+The negation statement of the sentence "None of the animals does not have tails" would be "Some of the animals have tails."
+[A4]
+The negation statement would be: Some of the animals have tails.
+[A5]
+Some of the animals have tails.
+[A6]
+Some of the animals have tails.
+[A7]
+Some of the animals have tails.
+[A8]
+Some of the animals have tails.
+[A9]
+The negation statement of the sentence "None of the animals does not have tails" is "Some of the animals have tails."
+[A10]
+Some of the animals have tails.
+[A11]
+Some of the animals have tails.
+[A12]
+Some of the animals have tails.
+[A13]
+Some of the animals have tails.
+[A14]
+Some of the animals have tails.
+[A15]
+Some of the animals have tails.
+[A16]
+Some of the animals have tails.
+[A17]
+Some of the animals have tails.
+[A18]
+Some of the animals have tails.
+[A19]
+Some of the animals have tails.
+[A20]
+Some of the animals have tails.
+
+[Q19]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the flowers need to be exposed to the sun.
+[A1]
+Some of the flowers do not need to be exposed to the sun.
+[A2]
+Some of the flowers do not need to be exposed to the sun.
+[A3]
+The negation statement of the sentence "All of the flowers need to be exposed to the sun" would be: "Some of the flowers do not need to be exposed to the sun."
+[A4]
+None of the flowers need to be exposed to the sun.
+[A5]
+None of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers do not need to be exposed to the sun.
+[A7]
+The negation statement of the given sentence is "None of the flowers need to be exposed to the sun."
+[A8]
+None of the flowers need to be exposed to the sun.
+[A9]
+None of the flowers need to be exposed to the sun.
+[A10]
+The negation statement of "All of the flowers need to be exposed to the sun" is: Some of the flowers do not need to be exposed to the sun.
+[A11]
+The negation statement of "All of the flowers need to be exposed to the sun" is "None of the flowers need to be exposed to the sun."
+[A12]
+Some of the flowers do not need to be exposed to the sun.
+[A13]
+Some of the flowers do not need to be exposed to the sun.
+[A14]
+Some of the flowers do not need to be exposed to the sun.
+[A15]
+The negation statement of the sentence "All of the flowers need to be exposed to the sun" is "Some of the flowers do not need to be exposed to the sun."
+[A16]
+None of the flowers need to be exposed to the sun.
+[A17]
+Some of the flowers do not need to be exposed to the sun.
+[A18]
+The negation statement of "All of the flowers need to be exposed to the sun." is: Some of the flowers do not need to be exposed to the sun.
+[A19]
+Some of the flowers do not need to be exposed to the sun.
+[A20]
+None of the flowers need to be exposed to the sun.
+
+[Q20]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the flowers do not need to be exposed to the sun.
+[A1]
+Some of the flowers need to be exposed to the sun.
+[A2]
+Some of the flowers need to be exposed to the sun.
+[A3]
+Some of the flowers need to be exposed to the sun.
+[A4]
+Some of the flowers need to be exposed to the sun.
+[A5]
+Some of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers need to be exposed to the sun.
+[A7]
+Some of the flowers need to be exposed to the sun.
+[A8]
+Some of the flowers need to be exposed to the sun.
+[A9]
+Some of the flowers need to be exposed to the sun.
+[A10]
+Some of the flowers need to be exposed to the sun.
+[A11]
+Some of the flowers need to be exposed to the sun.
+[A12]
+Some of the flowers need to be exposed to the sun.
+[A13]
+Some of the flowers need to be exposed to the sun.
+[A14]
+Some of the flowers need to be exposed to the sun.
+[A15]
+The negation statement of "All of the flowers do not need to be exposed to the sun" is: Some of the flowers need to be exposed to the sun.
+[A16]
+Some of the flowers need to be exposed to the sun.
+[A17]
+Some of the flowers need to be exposed to the sun.
+[A18]
+Some of the flowers need to be exposed to the sun.
+[A19]
+Some of the flowers need to be exposed to the sun.
+[A20]
+Some of the flowers need to be exposed to the sun.
+
+[Q21]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the flowers need to be exposed to the sun.
+[A1]
+The negation of the sentence "Some of the flowers need to be exposed to the sun" is "None of the flowers need to be exposed to the sun."
+[A2]
+None of the flowers need to be exposed to the sun.
+[A3]
+The negation statement of the sentence "Some of the flowers need to be exposed to the sun" can be expressed as "None of the flowers need to be exposed to the sun."
+[A4]
+None of the flowers need to be exposed to the sun.
+[A5]
+None of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers do not need to be exposed to the sun.
+[A7]
+None of the flowers need to be exposed to the sun.
+[A8]
+None of the flowers need to be exposed to the sun.
+[A9]
+None of the flowers need to be exposed to the sun.
+[A10]
+The negation statement of the sentence "Some of the flowers need to be exposed to the sun" is "None of the flowers need to be exposed to the sun.".
+[A11]
+None of the flowers need to be exposed to the sun.
+[A12]
+None of the flowers need to be exposed to the sun.
+[A13]
+The negation statement of "Some of the flowers need to be exposed to the sun" is "None of the flowers need to be exposed to the sun."
+[A14]
+None of the flowers need to be exposed to the sun.
+[A15]
+None of the flowers need to be exposed to the sun.
+[A16]
+None of the flowers need to be exposed to the sun.
+[A17]
+None of the flowers need to be exposed to the sun.
+[A18]
+The negation statement of the sentence "Some of the flowers need to be exposed to the sun" would be "None of the flowers need to be exposed to the sun."
+[A19]
+None of the flowers need to be exposed to the sun.
+[A20]
+None of the flowers need to be exposed to the sun.
+
+[Q22]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the flowers do not need to be exposed to the sun.
+[A1]
+None of the flowers need to be exposed to the sun.
+[A2]
+None of the flowers need to be exposed to the sun.
+[A3]
+The negation statement of the given sentence would be: None of the flowers need to be exposed to the sun.
+[A4]
+None of the flowers need to be exposed to the sun.
+[A5]
+None of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers need to be exposed to the sun.
+[A7]
+None of the flowers need to be exposed to the sun.
+[A8]
+All of the flowers need to be exposed to the sun.
+[A9]
+The negation statement of "Some of the flowers do not need to be exposed to the sun" is "None of the flowers do not need to be exposed to the sun".
+[A10]
+Some of the flowers need to be exposed to the sun.
+[A11]
+None of the flowers need to be exposed to the sun.
+[A12]
+None of the flowers need to be exposed to the sun.
+[A13]
+None of the flowers need to be exposed to the sun.
+[A14]
+None of the flowers need to be exposed to the sun.
+[A15]
+The negation statement of the sentence "Some of the flowers do not need to be exposed to the sun" would be: All of the flowers need to be exposed to the sun.
+[A16]
+The negation statement of the sentence "Some of the flowers do not need to be exposed to the sun" would be "All of the flowers need to be exposed to the sun."
+[A17]
+None of the flowers need to be exposed to the sun.
+[A18]
+All of the flowers need to be exposed to the sun.
+[A19]
+All of the flowers need to be exposed to the sun.
+[A20]
+All of the flowers need to be exposed to the sun.
+
+[Q23]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the flowers needs to be exposed to the sun.
+[A1]
+Some of the flowers need to be exposed to the sun.
+[A2]
+Some of the flowers need to be exposed to the sun.
+[A3]
+Some of the flowers needs to be exposed to the sun.
+[A4]
+Some of the flowers need to be exposed to the sun.
+[A5]
+Some of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers need to be exposed to the sun.
+[A7]
+Some of the flowers need to be exposed to the sun.
+[A8]
+Some of the flowers need to be exposed to the sun.
+[A9]
+Some of the flowers need to be exposed to the sun.
+[A10]
+Some of the flowers need to be exposed to the sun.
+[A11]
+Some of the flowers need to be exposed to the sun.
+[A12]
+Some of the flowers need to be exposed to the sun.
+[A13]
+Some of the flowers need to be exposed to the sun.
+[A14]
+Some of the flowers need to be exposed to the sun.
+[A15]
+Some of the flowers need to be exposed to the sun.
+[A16]
+Some of the flowers need to be exposed to the sun.
+[A17]
+Some of the flowers need to be exposed to the sun.
+[A18]
+Some of the flowers need to be exposed to the sun.
+[A19]
+Some of the flowers need to be exposed to the sun.
+[A20]
+The negation statement of the sentence "None of the flowers needs to be exposed to the sun" is "Some of the flowers need to be exposed to the sun."
+
+[Q24]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the flowers does not need to be exposed to the sun.
+[A1]
+Some of the flowers need to be exposed to the sun.
+[A2]
+Some of the flowers need to be exposed to the sun.
+[A3]
+Some of the flowers need to be exposed to the sun.
+[A4]
+Some of the flowers need to be exposed to the sun.
+[A5]
+Some of the flowers need to be exposed to the sun.
+[A6]
+Some of the flowers need to be exposed to the sun.
+[A7]
+Some of the flowers need to be exposed to the sun.
+[A8]
+Some of the flowers need to be exposed to the sun.
+[A9]
+Some of the flowers need to be exposed to the sun.
+[A10]
+Some of the flowers need to be exposed to the sun.
+[A11]
+Some of the flowers need to be exposed to the sun.
+[A12]
+Some of the flowers need to be exposed to the sun.
+[A13]
+Some of the flowers need to be exposed to the sun.
+[A14]
+Some of the flowers need to be exposed to the sun.
+[A15]
+Some of the flowers need to be exposed to the sun.
+[A16]
+Some of the flowers need to be exposed to the sun.
+[A17]
+The negation statement of the sentence "None of the flowers does not need to be exposed to the sun" is:
+
+Some of the flowers need to be exposed to the sun.
+[A18]
+Some of the flowers need to be exposed to the sun.
+[A19]
+Some of the flowers need to be exposed to the sun.
+[A20]
+Some of the flowers need to be exposed to the sun.
+
+[Q25]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the birds can swim
+[A1]
+Some of the birds cannot swim.
+[A2]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A3]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A4]
+Some of the birds cannot swim.
+[A5]
+The negation statement of the sentence "All of the birds can swim" would be: None of the birds can swim.
+[A6]
+Some of the birds cannot swim.
+[A7]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A8]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A9]
+Some of the birds cannot swim.
+[A10]
+The negation statement of "All of the birds can swim" would be "Some of the birds cannot swim."
+[A11]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A12]
+The negation statement would be: Some of the birds cannot swim.
+[A13]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A14]
+Some of the birds cannot swim.
+[A15]
+The negation statement of the sentence "All of the birds can swim" is "Some of the birds cannot swim."
+[A16]
+The negation statement of "All of the birds can swim" is "Some of the birds cannot swim."
+[A17]
+None of the birds can swim.
+[A18]
+The negation statement of the sentence "All of the birds can swim" is "Some of the birds cannot swim."
+[A19]
+The negation statement of "All of the birds can swim" would be "Some of the birds cannot swim."
+[A20]
+None of the birds can swim.
+
+[Q26]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: All of the birds can not swim
+[A1]
+Some of the birds can swim.
+[A2]
+Some of the birds can swim.
+[A3]
+Some of the birds can swim.
+[A4]
+Some of the birds can swim.
+[A5]
+Some of the birds can not swim.
+[A6]
+Some of the birds can swim.
+[A7]
+Some of the birds can swim.
+[A8]
+Some of the birds can swim.
+[A9]
+Some of the birds can swim
+[A10]
+Some of the birds can swim.
+[A11]
+Some of the birds can swim.
+[A12]
+Some of the birds can swim.
+[A13]
+None of the birds can swim.
+[A14]
+Some of the birds can swim.
+[A15]
+Some of the birds can swim.
+[A16]
+Some of the birds can swim.
+[A17]
+Some of the birds can swim.
+[A18]
+Some of the birds can swim.
+[A19]
+Some of the birds can swim.
+[A20]
+None of the birds can swim.
+
+[Q27]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the birds can swim
+[A1]
+None of the birds can swim.
+[A2]
+The negation statement of the sentence "Some of the birds can swim" is "None of the birds can swim."
+[A3]
+The negation statement of the sentence "Some of the birds can swim" would be "None of the birds can swim."
+[A4]
+The negation statement of "Some of the birds can swim" is "None of the birds can swim."
+[A5]
+None of the birds can swim.
+[A6]
+None of the birds can swim.
+[A7]
+The negation statement of "Some of the birds can swim" is: None of the birds can swim.
+[A8]
+None of the birds can swim.
+[A9]
+The negation statement of "Some of the birds can swim" would be "None of the birds can swim."
+[A10]
+The negation statement of "Some of the birds can swim" is "None of the birds can swim."
+[A11]
+None of the birds can swim.
+[A12]
+None of the birds can swim.
+[A13]
+The negation of the statement "Some of the birds can swim" would be "None of the birds can swim."
+[A14]
+None of the birds can swim.
+[A15]
+The negation statement of "Some of the birds can swim" is "None of the birds can swim."
+[A16]
+The negation statement of "Some of the birds can swim" is "None of the birds can swim."
+[A17]
+None of the birds can swim.
+[A18]
+None of the birds can swim.
+[A19]
+None of the birds can swim
+[A20]
+None of the birds can swim.
+
+[Q28]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: Some of the birds can not swim
+[A1]
+None of the birds can not swim.
+[A2]
+The negation of the sentence "Some of the birds can not swim" would be: None of the birds can not swim.
+[A3]
+The negation statement of "Some of the birds can not swim" is "none of the birds can not swim."
+[A4]
+None of the birds can swim.
+[A5]
+The negation statement of "Some of the birds can not swim" would be: "None of the birds can not swim."
+[A6]
+None of the birds can not swim.
+[A7]
+None of the birds can not swim.
+[A8]
+None of the birds can not swim.
+[A9]
+The negation statement of "Some of the birds can not swim" is "None of the birds can not swim."
+[A10]
+None of the birds can not swim.
+[A11]
+None of the birds can swim.
+[A12]
+The negation statement of "Some of the birds can not swim" is "None of the birds can not swim."
+[A13]
+None of the birds can not swim.
+[A14]
+None of the birds can not swim.
+[A15]
+None of the birds can not swim.
+[A16]
+None of the birds can swim.
+[A17]
+The negation statement of "Some of the birds can not swim" would be: Not all of the birds can not swim.
+[A18]
+The negation statement of the sentence "Some of the birds can not swim" would be "None of the birds can not swim."
+[A19]
+None of the birds can not swim.
+[A20]
+None of the birds can not swim.
+
+[Q29]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the birds can swim
+[A1]
+Some of the birds can swim.
+[A2]
+Some of the birds can swim.
+[A3]
+Some of the birds can swim.
+[A4]
+Some of the birds can swim.
+[A5]
+The negation statement of "None of the birds can swim" is "Some of the birds can swim."
+[A6]
+Some of the birds can swim.
+[A7]
+Some of the birds can swim.
+[A8]
+Some of the birds can swim.
+[A9]
+Some of the birds can swim.
+[A10]
+Some of the birds can swim.
+[A11]
+Some of the birds can swim.
+[A12]
+Some of the birds can swim.
+[A13]
+Some of the birds can swim
+[A14]
+Some of the birds can swim
+[A15]
+Some of the birds can swim.
+[A16]
+Some of the birds can swim.
+[A17]
+Some of the birds can swim.
+[A18]
+Some of the birds can swim
+[A19]
+Some of the birds can swim.
+[A20]
+Some of the birds can swim.
+
+[Q30]
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: None of the birds can not swim
+[A1]
+All of the birds can swim.
+[A2]
+Some of the birds can swim.
+[A3]
+Some of the birds can swim.
+[A4]
+Some of the birds can swim.
+[A5]
+The negation statement of "None of the birds can not swim" is "Some of the birds can swim."
+[A6]
+Some of the birds can swim.
+[A7]
+Some of the birds can swim.
+[A8]
+None of the birds can swim.
+[A9]
+Some of the birds can swim.
+[A10]
+Some of the birds can swim
+[A11]
+Some of the birds can swim.
+[A12]
+Some of the birds can swim.
+[A13]
+Some of the birds can swim.
+[A14]
+Some of the birds can swim.
+[A15]
+Some of the birds can swim.
+[A16]
+The negation statement of the sentence "None of the birds can not swim" is:
+Some of the birds can swim.
+[A17]
+Some of the birds can swim.
+[A18]
+The negation statement of "None of the birds can not swim" is "Some of the birds can swim."
+[A19]
+Some of the birds can swim.
+[A20]
+The negation of the sentence "None of the birds can not swim" is: Some of the birds can swim.
