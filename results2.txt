@@ -1,0 +1,890 @@
+[Q1]
+Suppose all of the students at Fudan University have a certain disease, and all people suffering from the disease are under 18. What can be inferred about the ages of the students at Fudan University? Use quantifiers all, none, or some.
+[A1]
+Some of the students at Fudan University are under 18.
+[A2]
+Some students at Fudan University are under 18 years old.
+[A3]
+Some students at Fudan University are under 18.
+[A4]
+Some of the students at Fudan University are under 18.
+[A5]
+Some of the students at Fudan University are under 18.
+[A6]
+Some of the students at Fudan University are under 18 years old.
+[A7]
+Some of the students at Fudan University are under 18.
+[A8]
+Some of the students at Fudan University are under 18.
+[A9]
+Some of the students at Fudan University are under 18.
+[A10]
+Some of the students at Fudan University are under 18.
+[A11]
+Some of the students at Fudan University are under 18.
+[A12]
+Some of the students at Fudan University are under 18 years old.
+[A13]
+Some of the students at Fudan University are under 18.
+[A14]
+Some of the students at Fudan University are under 18.
+[A15]
+Some of the students at Fudan University are under 18.
+[A16]
+Some of the students at Fudan University are under 18.
+[A17]
+Some of the students at Fudan University are under 18.
+[A18]
+Some of the students at Fudan University are under 18.
+[A19]
+Some students at Fudan University are under 18.
+[A20]
+Some of the students at Fudan University are under 18 years old.
+
+[Q2]
+Suppose all of the students at Fudan University have a certain disease, and no people suffering from the disease are under 18. What can be inferred about the ages of the students at Fudan University? Use quantifiers "all", "none", or "some".
+[A1]
+Some students at Fudan University are 18 or older.
+[A2]
+Some of the students at Fudan University are 18 years old or older.
+[A3]
+Based on the given information, we can infer that some students at Fudan University are 18 or older.
+[A4]
+All students at Fudan University are over 18 years old.
+[A5]
+All of the students at Fudan University are 18 or older.
+[A6]
+Some- It can be inferred that some students at Fudan University are 18 years or older.
+[A7]
+Some students at Fudan University are 18 years old or older.
+[A8]
+Some students at Fudan University are over 18 years old.
+[A9]
+Some of the students at Fudan University are 18 years old or older.
+[A10]
+None of the students at Fudan University are under 18.
+[A11]
+Some of the students at Fudan University are under 18.
+[A12]
+"All" students at Fudan University are over 18 years old.
+[A13]
+"Some" students at Fudan University are 18 years old or older.
+[A14]
+All students at Fudan University are above the age of 18.
+[A15]
+Some of the students at Fudan University are under 18.
+[A16]
+All of the students at Fudan University are 18 years old or older.
+[A17]
+Some students at Fudan University are 18 or older.
+[A18]
+Some students at Fudan University are 18 or older.
+[A19]
+Some of the students at Fudan University are 18 years old or older.
+[A20]
+Some of the students at Fudan University are under 18.
+
+[Q3]
+Suppose some of the students at Fudan University have a certain disease, and all people suffering from the disease are under 18. What can be inferred about the ages of the students at Fudan University? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the students at Fudan University are under 18.
+[A2]
+Some of the students at Fudan University are under 18.
+[A3]
+Some of the students at Fudan University are under 18.
+[A4]
+Some of the students at Fudan University are under 18 years old.
+[A5]
+Some of the students at Fudan University are under 18.
+[A6]
+Some of the students at Fudan University are under 18 years old.
+[A7]
+Some of the students at Fudan University are under 18.
+[A8]
+Some of the students at Fudan University are under 18.
+[A9]
+Some of the students at Fudan University are under 18.
+[A10]
+Some of the students at Fudan University are under 18.
+[A11]
+Some of the students at Fudan University are under 18 years old.
+[A12]
+Some of the students at Fudan University are under 18.
+[A13]
+Some of the students at Fudan University are under 18 years old.
+[A14]
+Some of the students at Fudan University are under 18.
+[A15]
+All students at Fudan University are not under 18.
+[A16]
+Some students at Fudan University are under 18 years old.
+[A17]
+Some of the students at Fudan University are under 18.
+[A18]
+Some of the students at Fudan University are under 18.
+[A19]
+"Some" of the students at Fudan University are under 18 years old, as those suffering from the disease are under 18.
+[A20]
+Some students at Fudan University are under 18.
+
+
+[Q4]
+Suppose none of the students at Fudan University has a certain disease, and all of the students under 18 suffer from the disease. What can be inferred about the ages of the students at Fudan University? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the students at Fudan University are under 18.
+[A2]
+Some of the students at Fudan University are under 18 years old.
+[A3]
+All students under 18 at Fudan University have the disease.
+[A4]
+All students at Fudan University are over 18 years old.
+[A5]
+All of the students at Fudan University are over 18 years old.
+[A6]
+All students under 18 at Fudan University have the disease, while none of the students at Fudan University have the disease.
+[A7]
+All of the students under 18 at Fudan University have the certain disease.
+[A8]
+Some of the students at Fudan University are under 18.
+[A9]
+All students at Fudan University are over 18 years old.
+[A10]
+All students under 18 at Fudan University have the certain disease. None of the students at Fudan University have the certain disease.
+[A11]
+Some of the students at Fudan University are under 18.
+[A12]
+From the given information, it can be inferred that:
+
+- All students under 18 at Fudan University have the disease.
+- None of the students at Fudan University have the disease.
+- Some students at Fudan University are under 18 years of age.
+[A13]
+Some of the students at Fudan University are under 18.
+[A14]
+All students at Fudan University are over 18 years old.
+[A15]
+Some of the students at Fudan University are over 18 years old.
+[A16]
+All students at Fudan University who are under 18 have the disease, and none of the students at Fudan University have the disease.
+[A17]
+Some of the students at Fudan University are under 18.
+[A18]
+All students at Fudan University are over 18 years old.
+[A19]
+All of the students at Fudan University are either over 18 or do not have the disease.
+[A20]
+From the given information, the following can be inferred about the ages of the students at Fudan University:
+
+- All students under 18 years old have the disease.
+- None of the students at Fudan University have the disease.
+
+[Q5]
+Suppose all of the toy blocks in Pego Toy Store are made of plastic, and all of the plastic objects are fragile. What can be inferred about the fragility of the toy blocks in Pego Toy Store? Use quantifiers "all", "none", or "some".
+[A1]
+All of the toy blocks in Pego Toy Store are fragile.
+[A2]
+All of the toy blocks in Pego Toy Store are fragile.
+[A3]
+All of the toy blocks in Pego Toy Store are fragile.
+[A4]
+All of the toy blocks in Pego Toy Store are fragile.
+[A5]
+All of the toy blocks in Pego Toy Store are fragile.
+[A6]
+All of the toy blocks in Pego Toy Store are fragile.
+[A7]
+All of the toy blocks in Pego Toy Store are fragile.
+[A8]
+All of the toy blocks in Pego Toy Store are fragile.
+[A9]
+All of the toy blocks in Pego Toy Store are fragile.
+[A10]
+All of the toy blocks in Pego Toy Store are fragile.
+[A11]
+All of the toy blocks in Pego Toy Store are fragile.
+[A12]
+"All" toy blocks in Pego Toy Store are fragile.
+[A13]
+All of the toy blocks in Pego Toy Store are fragile.
+[A14]
+All of the toy blocks in Pego Toy Store are fragile.
+[A15]
+All of the toy blocks in Pego Toy Store are fragile.
+[A16]
+All of the toy blocks in Pego Toy Store are fragile.
+[A17]
+All of the toy blocks in Pego Toy Store are fragile.
+[A18]
+All of the toy blocks in Pego Toy Store are fragile.
+[A19]
+All of the toy blocks in Pego Toy Store are fragile.
+[A20]
+All of the toy blocks in Pego Toy Store are fragile.
+
+
+[Q6]
+Suppose all of the toy blocks in Pego Toy Store are made of plastic, and none of the plastic objects is fragile. What can be inferred about the fragility of the toy blocks in Pego Toy Store? Use quantifiers "all", "none", or "some".
+[A1]
+Some toy blocks in Pego Toy Store may be fragile.
+[A2]
+From the given information, it can be inferred that "none" of the toy blocks in Pego Toy Store are fragile.
+[A3]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A4]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A5]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A6]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A7]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A8]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A9]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A10]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A11]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A12]
+None of the toy blocks in Pego Toy Store are fragile.
+[A13]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A14]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A15]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A16]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A17]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A18]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A19]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A20]
+All of the toy blocks in Pego Toy Store are not fragile.
+
+[Q7]
+Suppose some of the toy blocks in Pego Toy Store are made of plastic, and all of the plastic objects are fragile. What can be inferred about the fragility of the toy blocks in Pego Toy Store? Use quantifiers "all", "none", or "some".
+[A1]
+All of the toy blocks in Pego Toy Store are fragile.
+[A2]
+All of the toy blocks in Pego Toy Store are fragile.
+[A3]
+All of the toy blocks in Pego Toy Store are fragile.
+[A4]
+All of the toy blocks in Pego Toy Store are fragile because all of the plastic objects are fragile, and some of the toy blocks are made of plastic.
+[A5]
+All of the toy blocks in Pego Toy Store are fragile.
+[A6]
+All of the toy blocks in Pego Toy Store are fragile.
+[A7]
+All of the toy blocks in Pego Toy Store are fragile.
+[A8]
+All of the toy blocks in Pego Toy Store are fragile.
+[A9]
+All of the toy blocks in Pego Toy Store are fragile.
+[A10]
+All of the toy blocks in Pego Toy Store are fragile.
+[A11]
+All toy blocks in Pego Toy Store are fragile.
+[A12]
+All of the toy blocks in Pego Toy Store are fragile.
+[A13]
+All of the toy blocks in Pego Toy Store are fragile.
+[A14]
+All of the toy blocks in Pego Toy Store are fragile.
+[A15]
+All of the toy blocks in Pego Toy Store are fragile.
+[A16]
+All of the toy blocks in Pego Toy Store are fragile.
+[A17]
+All of the toy blocks in Pego Toy Store are fragile.
+[A18]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A19]
+All of the toy blocks in Pego Toy Store are fragile.
+[A20]
+All of the toy blocks in Pego Toy Store are fragile.
+
+
+[Q8]
+Suppose none of the toy blocks in Pego Toy Store is made of plastic, and all of the fragile toy blocks are made of plastic. What can be inferred about the fragility of the toy blocks in Pego Toy Store? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A2]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A3]
+All of the toy blocks in Pego Toy Store are fragile.
+[A4]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A5]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A6]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A7]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A8]
+All of the fragile toy blocks in Pego Toy Store are made of plastic.
+[A9]
+None of the toy blocks in Pego Toy Store are fragile.
+[A10]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A11]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A12]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A13]
+Some of the toy blocks in Pego Toy Store are not fragile.
+[A14]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A15]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A16]
+None of the toy blocks in Pego Toy Store are fragile.
+[A17]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A18]
+Some of the toy blocks in Pego Toy Store are fragile.
+[A19]
+All of the toy blocks in Pego Toy Store are not fragile.
+[A20]
+None of the toy blocks in Pego Toy Store are fragile.
+
+
+[Q9]
+Suppose all of the teachers at Shanghai Sports School are athletes, and all of the athletes are taller than 170cm. What can be inferred about the height of the teachers at Shanghai Sports School? Use quantifiers "all", "none", or "some".
+[A1]
+All teachers at Shanghai Sports School are taller than 170cm.
+[A2]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A3]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A4]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A5]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A6]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A7]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A8]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A9]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A10]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A11]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A12]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A13]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A14]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A15]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A16]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A17]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A18]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A19]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A20]
+All teachers at Shanghai Sports School are taller than 170cm.
+
+
+[Q10]
+Suppose all of the teachers at Shanghai Sports School are athletes, and none of the athletes is taller than 170cm. What can be inferred about the height of the teachers at Shanghai Sports School? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+[A2]
+Some of the teachers at Shanghai Sports School are shorter than 170cm.
+[A3]
+All of the teachers at Shanghai Sports School are not taller than 170cm.
+[A4]
+All of the teachers at Shanghai Sports School are not taller than 170cm.
+[A5]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A6]
+All of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+[A7]
+All of the teachers at Shanghai Sports School are shorter than or equal to 170cm in height.
+[A8]
+All of the teachers at Shanghai Sports School are not taller than 170cm.
+[A9]
+Some of the teachers at Shanghai Sports School are taller than 170cm
+[A10]
+Some of the teachers at Shanghai Sports School are shorter than 170cm.
+[A11]
+Some of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+[A12]
+All of the teachers at Shanghai Sports School are at most 170cm tall.
+[A13]
+All of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+[A14]
+All of the teachers at Shanghai Sports School are not taller than 170cm.
+[A15]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A16]
+Some of the teachers at Shanghai Sports School are shorter than or equal to 170cm in height.
+[A17]
+All of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+[A18]
+All of the teachers at Shanghai Sports School are not taller than 170cm.
+[A19]
+Some of the teachers at Shanghai Sports School are shorter than 170cm.
+[A20]
+All of the teachers at Shanghai Sports School are shorter than or equal to 170cm.
+
+
+[Q11]
+Suppose some of the teachers at Shanghai Sports School are athletes, and all of the athletes are taller than 170cm. What can be inferred about the height of the teachers at Shanghai Sports School? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A2]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A3]
+"All" of the teachers at Shanghai Sports School must be taller than 170cm, as "some" of them are athletes and all athletes are taller than 170cm.
+[A4]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A5]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A6]
+All of the teachers at Shanghai Sports School are at least 170cm tall.
+[A7]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A8]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A9]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A10]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A11]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A12]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A13]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A14]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A15]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A16]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A17]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A18]
+All of the teachers at Shanghai Sports School are taller than 170cm.
+[A19]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A20]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+
+
+[Q12]
+Suppose none of the teachers at Shanghai Sports School is an athlete, all of those who are taller than 170cm are athletes. What can be inferred about the height of the teachers at Shanghai Sports School? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A2]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A3]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A4]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A5]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A6]
+Some teachers at Shanghai Sports School are taller than 170cm.
+[A7]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A8]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A9]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A10]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A11]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A12]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A13]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A14]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A15]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A16]
+From the given information, we can infer the following: 
+
+Some of the teachers at Shanghai Sports School are taller than 170cm. 
+
+We cannot make any inferences about the height of all the teachers or none of the teachers based on the given information.
+[A17]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A18]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A19]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+[A20]
+Some of the teachers at Shanghai Sports School are taller than 170cm.
+
+
+[Q13]
+Suppose all of the chairs in the classroom are wooden, and all wooden objects are flammable. What can be inferred about the flammability of the chairs in the classroom? Use quantifiers "all", "none", or "some".
+[A1]
+All of the chairs in the classroom are flammable.
+[A2]
+All of the chairs in the classroom are flammable.
+[A3]
+All of the chairs in the classroom are flammable.
+[A4]
+All of the chairs in the classroom are flammable.
+[A5]
+All of the chairs in the classroom are flammable.
+[A6]
+All of the chairs in the classroom are flammable.
+[A7]
+All of the chairs in the classroom are flammable.
+[A8]
+All of the chairs in the classroom are flammable because all wooden objects are flammable.
+[A9]
+All of the chairs in the classroom are flammable.
+[A10]
+All of the chairs in the classroom are flammable.
+[A11]
+All of the chairs in the classroom are flammable.
+[A12]
+All of the chairs in the classroom are flammable.
+[A13]
+All of the chairs in the classroom are flammable.
+[A14]
+All chairs in the classroom are flammable.
+[A15]
+All chairs in the classroom are flammable.
+[A16]
+All of the chairs in the classroom are flammable.
+[A17]
+All of the wooden chairs in the classroom are flammable.
+[A18]
+All of the chairs in the classroom are flammable.
+[A19]
+All of the chairs in the classroom are flammable.
+[A20]
+All of the chairs in the classroom are flammable.
+
+
+[Q14]
+Suppose all of the chairs in the classroom are wooden, and none of the wooden objects are flammables. What can be inferred about the flammability of the chairs in the classroom? Use quantifiers "all", "none", or "some".
+[A1]
+All of the chairs in the classroom are non-flammable.
+[A2]
+All of the chairs in the classroom are non-flammable.
+[A3]
+All of the chairs in the classroom are non-flammable.
+[A4]
+All of the chairs in the classroom are non-flammable.
+[A5]
+All of the chairs in the classroom are not flammable.
+[A6]
+All of the chairs in the classroom are non-flammable.
+[A7]
+All of the chairs in the classroom are non-flammable.
+[A8]
+All of the chairs in the classroom are non-flammable.
+[A9]
+All of the chairs in the classroom are non-flammable.
+[A10]
+All of the chairs in the classroom are not flammable.
+[A11]
+All of the chairs in the classroom are not flammable.
+[A12]
+All of the chairs in the classroom are non-flammable.
+[A13]
+All of the wooden chairs in the classroom are non-flammable.
+[A14]
+All of the chairs in the classroom are non-flammable.
+[A15]
+All of the chairs in the classroom are non-flammable.
+[A16]
+All of the chairs in the classroom are nonflammable.
+[A17]
+All of the chairs in the classroom are non-flammable.
+[A18]
+All of the chairs in the classroom are not flammable.
+[A19]
+All of the chairs in the classroom are not flammable.
+[A20]
+All of the chairs in the classroom are non-flammable.
+
+
+[Q15]
+Suppose some of the chairs in the classroom are wooden, and all wooden objects are flammable. What can be inferred about the flammability of the chairs in the classroom? Use quantifiers "all", "none", or "some".
+[A1]
+Some of the chairs in the classroom must be flammable because they are wooden.
+[A2]
+Some of the chairs in the classroom are flammable.
+[A3]
+Some of the chairs in the classroom are flammable.
+[A4]
+Some of the chairs in the classroom are flammable.
+[A5]
+All chairs in the classroom are flammable.
+[A6]
+Some of the chairs in the classroom are flammable.
+[A7]
+Some of the chairs in the classroom are flammable.
+[A8]
+Some of the chairs in the classroom are flammable.
+[A9]
+Some of the chairs in the classroom are flammable.
+[A10]
+Some of the chairs in the classroom are flammable.
+[A11]
+Some of the chairs in the classroom are flammable.
+[A12]
+All wooden chairs in the classroom are flammable.
+[A13]
+Some of the chairs in the classroom are flammable.
+[A14]
+Some of the chairs in the classroom are flammable.
+[A15]
+Some of the chairs in the classroom are flammable.
+[A16]
+Some of the chairs in the classroom may be flammable because some wooden objects are flammable.
+[A17]
+Some of the chairs in the classroom are flammable.
+[A18]
+All wooden objects are flammable.
+Some of the chairs in the classroom are wooden.
+
+Based on these statements, it can be inferred that some of the chairs in the classroom are flammable.
+[A19]
+Some chairs in the classroom are flammable.
+[A20]
+Some of the chairs in the classroom are flammable.
+
+
+[Q16]
+Suppose none of the chairs in the classroom is wooden, and all flammables are wooden objects. What can be inferred about the flammability of the chairs in the classroom? Use quantifiers "all", "none", or "some".
+[A1]
+None of the chairs in the classroom are flammable.
+[A2]
+Some of the chairs in the classroom are flammable.
+[A3]
+None of the chairs in the classroom are flammable.
+[A4]
+All of the chairs in the classroom are not flammable.
+[A5]
+Some of the chairs in the classroom are flammable.
+[A6]
+The inference that can be made is that none of the chairs in the classroom are flammable.
+[A7]
+None of the chairs in the classroom are flammable.
+[A8]
+Some of the chairs in the classroom are flammable.
+[A9]
+Some of the chairs in the classroom are flammable.
+[A10]
+Some of the chairs in the classroom are flammable.
+[A11]
+Some of the chairs in the classroom are flammable.
+[A12]
+All of the chairs in the classroom are non-flammable.
+[A13]
+Some of the chairs in the classroom are flammable.
+[A14]
+Some of the chairs in the classroom are flammable.
+[A15]
+All of the chairs in the classroom are non-flammable.
+[A16]
+None of the chairs in the classroom are flammable.
+[A17]
+None of the chairs in the classroom are flammable.
+[A18]
+Some of the chairs in the classroom could be flammable, as none of the chairs are wooden objects.
+[A19]
+Some chairs in the classroom are flammable.
+[A20]
+None of the chairs in the classroom are flammable.
+
+
+[Q17]
+Suppose all of the books in the school library are non-fiction, and all non-fiction books have blue covers. What can be inferred about the colors of the covers of the books in the school library? Use quantifiers "all", "none", or "some". 
+[A1]
+All of the books in the school library have blue covers.
+[A2]
+All of the books in the school library have blue covers.
+[A3]
+All of the books in the school library have blue covers.
+[A4]
+All books in the school library have blue covers.
+[A5]
+All the books in the school library have blue covers.
+[A6]
+All of the books in the school library have blue covers.
+[A7]
+All of the books in the school library have blue covers.
+[A8]
+All of the books in the school library have blue covers.
+[A9]
+All of the books in the school library have blue covers.
+[A10]
+All books in the school library have blue covers.
+[A11]
+All of the books in the school library have blue covers.
+[A12]
+All of the books in the school library have blue covers.
+[A13]
+All of the books in the school library have blue covers.
+[A14]
+All of the books in the school library have blue covers.
+[A15]
+All of the books in the school library have blue covers.
+[A16]
+All of the books in the school library have blue covers.
+[A17]
+All of the books in the school library have blue covers.
+[A18]
+All of the books in the school library have blue covers.
+[A19]
+All of the books in the school library have blue covers.
+[A20]
+All of the books in the school library have blue covers.
+
+
+[Q18]
+Suppose all of the books in the school library are non-fiction, and none non-fiction book has blue covers. What can be inferred about the colors of the covers of the books in the school library? Use quantifiers "all", "none", or "some". 
+[A1]
+All of the books in the school library have covers that are not blue.
+[A2]
+All books in the school library have covers that are not blue.
+[A3]
+All the books in the school library have covers that are not blue.
+[A4]
+Some books in the school library have blue covers.
+[A5]
+All the books in the school library have non-blue covers.
+[A6]
+All books in the school library have covers that are not blue.
+[A7]
+Some books in the school library have colors other than blue.
+[A8]
+All books in the school library have covers that are not blue.
+[A9]
+All of the books in the school library have covers that are not blue.
+[A10]
+Some books in the school library have covers that are not blue.
+[A11]
+All books in the school library have covers that are not blue.
+[A12]
+All of the books in the school library have covers that are not blue.
+[A13]
+Some of the books in the school library have non-blue covers.
+[A14]
+Some books in the school library have colors other than blue.
+[A15]
+Some books in the school library have covers that are not blue.
+[A16]
+All of the books in the school library with non-fiction are not blue.
+[A17]
+All of the books in the school library have covers that are not blue.
+[A18]
+All books in the school library have covers that are not blue.
+[A19]
+Some books in the school library have non-blue covers.
+[A20]
+From the given information, we can infer:
+- All of the books in the school library have covers that are not blue.
+
+
+[Q19]
+Suppose some of the books in the school library are non-fiction, and all non-fiction books have blue covers. What can be inferred about the colors of the covers of the books in the school library? Use quantifiers "all", "none", or "some". 
+[A1]
+Some of the books in the school library have blue covers.
+[A2]
+Using the information provided, the inference that can be made about the colors of the covers of the books in the school library is as follows:
+
+Some of the books in the school library have blue covers.
+[A3]
+All non-fiction books have blue covers.
+[A4]
+All books in the school library have blue covers.
+[A5]
+Some of the books in the school library have blue covers.
+[A6]
+Some of the books in the school library have blue covers.
+[A7]
+Some of the books in the school library have blue covers.
+[A8]
+Some of the books in the school library have blue covers.
+[A9]
+Some of the books in the school library have blue covers.
+[A10]
+Some of the books in the school library have blue covers.
+[A11]
+All the non-fiction books in the school library have blue covers
+[A12]
+All books in the school library with blue covers are non-fiction.
+[A13]
+All the books in the school library have blue covers.
+[A14]
+Some of the books in the school library have blue covers.
+[A15]
+It can be inferred that some of the books in the school library have blue covers.
+[A16]
+All the books with blue covers in the school library are non-fiction.
+[A17]
+Some of the books in the school library have blue covers.
+[A18]
+Some of the books in the school library have blue covers.
+[A19]
+Some books in the school library have blue covers.
+[A20]
+Some of the books in the school library have blue covers.
+
+[Q20]
+Suppose none of the books in the school library is non-fiction, and all books with blue covers are non-fiction. What can be inferred about the colors of the covers of the books in the school library? Use quantifiers "all", "none", or "some". 
+[A1]
+Some of the books in the school library have blue covers.
+[A2]
+All books in the school library have covers that are not blue.
+[A3]
+Some books in the school library have blue covers.
+[A4]
+Some books in the school library have blue covers.
+[A5]
+Some books in the school library have blue covers.
+[A6]
+Some of the books in the school library have blue covers.
+[A7]
+Some books in the school library have blue covers.
+[A8]
+Some of the books in the school library have blue covers.
+[A9]
+None of the books in the school library have blue covers.
+[A10]
+Some of the books in the school library have blue covers.
+[A11]
+Some of the books in the school library have blue covers.
+[A12]
+Some book covers in the school library are blue.
+[A13]
+All books in the school library have covers that are not blue.
+[A14]
+Some of the books in the school library have blue covers.
+[A15]
+Some of the books in the school library have blue covers.
+[A16]
+All books in the school library have covers that are not blue.
+[A17]
+Some of the books in the school library have blue covers.
+[A18]
+Some of the books in the school library have blue covers.
+[A19]
+Some books in the school library have blue covers.
+[A20]
+Some books in the school library have blue covers.

@@ -1,0 +1,8 @@
+A classroom contains only wooden chairs. Determine if the following statement is true or false: All the chairs in the classroom are metal. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: All the chairs in the classroom are wooden. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: None of the chairs in the classroom is wooden. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: None of the chairs in the classroom is metal. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: Some of the chairs in the classroom are metal. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: All the chairs in both classrooms are wooden. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: None of the chairs in both classrooms is wooden. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: Some of the chairs in both classrooms are wooden. 

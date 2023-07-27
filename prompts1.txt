@@ -1,0 +1,40 @@
+A box contains only red balls. Determine if the following statement is true or false: All the balls in the box are blue. 
+A bucket contains only pink flowers. Determine if the following statement is true or false: All the flowers in the bucket are white. 
+A bookshelf contains only fiction books. Determine if the following statement is true or false: All the books on the bookshelf are non-fictions. 
+An office contains only computer desks. Determine if the following statement is true or false: All the desks in the office are reception desks. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: All the chairs in the classroom are metal. 
+A box contains only red balls. Determine if the following statement is true or false: All the balls in the box are red. 
+A bucket contains only pink flowers. Determine if the following statement is true or false: All the flowers in the bucket are pink. 
+A bookshelf contains only fiction books. Determine if the following statement is true or false: All the books on the bookshelf are fictions.
+An office contains only computer desks. Determine if the following statement is true or false: All the desks in the office are computer desks. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: All the chairs in the classroom are wooden. 
+A box contains only red balls. Determine if the following statement is true or false: None of the balls in the box is red. 
+A bucket contains only pink flowers. Determine if the following statement is true or false: None of the flowers in the bucket is pink. 
+A bookshelf contains only fiction books. Determine if the following statement is true or false: None of the books on the bookshelf is fiction. 
+An office contains only computer desks. Determine if the following statement is true or false: None of the desks in the office is computer desks. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: None of the chairs in the classroom is wooden. 
+A box contains only red balls. Determine if the following statement is true or false: None of the balls in the box is blue. 
+A bucket contains only pink flowers. Determine if the following statement is true or false: None of the flowers in the bucket is white. 
+A bookshelf contains only fiction books. Determine if the following statement is true or false: None of the books on the bookshelf is non-fiction. 
+An office contains only computer desks. Determine if the following statement is true or false: None of the desks in the office is reception desks. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: None of the chairs in the classroom is metal. 
+A box contains only red balls. Determine if the following statement is true or false: Some of the balls in the box are blue. 
+A bucket contains only pink flowers. Determine if the following statement is true or false: Some of the flowers in the bucket are white. 
+A bookshelf contains only fiction books. Determine if the following statement is true or false: Some of the books on the bookshelf are non-fictions. 
+An office contains only computer desks. Determine if the following statement is true or false: Some of the desks in the office are reception desks. 
+A classroom contains only wooden chairs. Determine if the following statement is true or false: Some of the chairs in the classroom are metal. 
+There are two boxes A and B. Box A contains only red balls, while Box B contains only blue balls. Determine if the following statement is true or false: All the balls in both boxes are red. 
+There are two buckets A and B. Bucket A contains only pink flowers, while Bucket B contains only white flowers. Determine if the following statement is true or false: All the flowers in both buckets are pink. 
+There are two bookshelves A and B. Shelf A contains only fiction books, while Shelf B contains only non-fiction books. Determine if the following statement is true or false: All the books on both bookshelves are fictions. 
+There are two offices A and B. Shelf A contains only computer desks, while Office B contains only reception desks. Determine if the following statement is true or false: All the desks in both offices are computer desks. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: All the chairs in both classrooms are wooden. 
+There are two boxes A and B. Box A contains only red balls, while Box B contains only blue balls. Determine if the following statement is true or false: None of the balls in both boxes is red. 
+There are two buckets A and B. Bucket A contains only pink flowers, while Bucket B contains only white flowers. Determine if the following statement is true or false: None of the flowers in both buckets is pink. 
+There are two bookshelves A and B. Shelf A contains only fiction books, while Shelf B contains only non-fiction books. Determine if the following statement is true or false: None of the books on both bookshelves is fiction. 
+There are two offices A and B. Shelf A contains only computer desks, while Office B contains only reception desks. Determine if the following statement is true or false: None of the desks in both offices is computer desks. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: None of the chairs in both classrooms is wooden. 
+There are two boxes A and B. Box A contains only red balls, while Box B contains only blue balls. Determine if the following statement is true or false: Some of the balls in both boxes are red. 
+There are two buckets A and B. Bucket A contains only pink flowers, while Bucket B contains only white flowers. Determine if the following statement is true or false: Some of the flowers in both buckets are pink.  
+There are two bookshelves A and B. Shelf A contains only fiction books, while Shelf B contains only non-fiction books. Determine if the following statement is true or false: Some of the books on both bookshelves are fictions. 
+There are two offices A and B. Shelf A contains only computer desks, while Office B contains only reception desks. Determine if the following statement is true or false: Some of the desks in both offices are computer desks. 
+There are two classrooms A and B. Room A contains only wooden chairs, while Room B contains only metal chairs. Determine if the following statement is true or false: Some of the chairs in both classrooms are wooden. 

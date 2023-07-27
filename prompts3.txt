@@ -1,0 +1,21 @@
+Use quantifiers "all", "none", or "some" to find the negation statement of the following sentence: 
+All of the students in the classroom are male. 
+All of the students in the classroom are not male. 
+Some of the students in the classroom are male. 
+Some of the students in the classroom are not male. 
+None of the students in the classroom is male. 
+None of the students in the classroom is not male. 
+All of the teachers in the school teach Physics.
+All of the teachers in the school do not teach Physics.
+Some of the teachers in the school teach Physics.
+Some of the teachers in the school do not teach Physics.
+None of the teachers in the school teaches Physics.
+None of the teachers in the school does not teach Physics.
+All of the animals have tails.
+All of the animals do not have tails.
+Some of the animals have tails.
+Some of the animals have tails.
+Some animals have tails.
+Some animals have tails.
+Some flowers do not need to be exposed to the sun.
+None of the birds can swim
