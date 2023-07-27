@@ -1,0 +1,3 @@
+All restaurants serve A. Some restaurants serve C. Where can I buy A and C?
+None of the restaurants serve A. Some restaurants serve B. Where can I buy A or B?
+All people have A and B. Some people have additional C and D. Do some people have A and C?

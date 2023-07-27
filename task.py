@@ -44,7 +44,7 @@ def task(fileName, repetition):
 def main():
     args = parse_command_line()
     openai.api_key = os.getenv("OPENAI_API_KEY")
-    task(args.file[0], 20)
+    task(args.file[0], 50)
 
 if __name__ == '__main__':
     main()

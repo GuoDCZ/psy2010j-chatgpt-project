@@ -1,10 +1,3 @@
-Do the following statements form a contradiction? The flower in the case is a tulip. The flower in the case is not a tulip.
-Do the following statements form a contradiction? The flower in the case is a tulip. The flower in the case is a rose.
-Do the following statements form a contradiction? The flower in the case is a tulip. The flower in the case is not a rose.
-Do the following statements form a contradiction? The flower in the case is either a tulip or a rose.
-Do the following statements form a contradiction? The flower in the case is neither a tulip nor a rose.
-Do the following statements form a contradiction? The flower in the case is both a tulip and a rose.
-Do the following statements form a contradiction? The flower in the case is either not a tulip or not a rose.
 Do the following statements form a contradiction? The instrument in the music store is a guitar. The instrument in the music store is not a guitar.
 Do the following statements form a contradiction? The instrument in the music store is a guitar. The instrument in the music store is a piano.
 Do the following statements form a contradiction? The instrument in the music store is a guitar. The instrument in the music store is not a piano.
@@ -12,19 +5,6 @@ Do the following statements form a contradiction? The instrument in the music st
 Do the following statements form a contradiction? The instrument in the music store is neither a guitar nor a piano.
 Do the following statements form a contradiction? The instrument in the music store is both a guitar and a piano.
 Do the following statements form a contradiction? The instrument in the music store is either not a guitar or not a piano.
-Do the following statements form a contradiction? Sam is handsome. Sam is not handsome.
-Do the following statements form a contradiction? Sam is handsome. Sam is tall.
-Do the following statements form a contradiction? Sam is handsome. Sam is not tall.
-Do the following statements form a contradiction? Sam is handsome. Sam is either handsome or tall.
-Do the following statements form a contradiction? Sam is handsome. Sam is neither handsome nor tall.
-Do the following statements form a contradiction? Sam is handsome. Sam is either not handsome or not tall.
-Do the following statements form a contradiction? Sam is handsome. Sam is both handsome and tall.
-Do the following statements form a contradiction? Sam is either handsome or tall. Sam is neither handsome nor tall.
-Do the following statements form a contradiction? Sam is either handsome or tall. Sam is both handsome and tall.
-Do the following statements form a contradiction? Sam is either handsome or tall. Sam is either not handsome or not tall.
-Do the following statements form a contradiction? Sam is neither handsome nor tall. Sam is both handsome and tall.
-Do the following statements form a contradiction? Sam is neither handsome nor tall. Sam is either not handsome or not tall.
-Do the following statements form a contradiction? Sam is both handsome and tall. Sam is either not handsome or not tall.
 Do the following statements form a contradiction? Tom can play soccer. Tom can not play soccer.
 Do the following statements form a contradiction? Tom can play soccer. Tom can play badminton.
 Do the following statements form a contradiction? Tom can play soccer. Tom can not play badminton.
